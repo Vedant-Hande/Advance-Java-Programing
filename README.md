@@ -8,7 +8,6 @@ Welcome to the Advanced Java Progrmaiing! This repository contains a collection 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Introduction
